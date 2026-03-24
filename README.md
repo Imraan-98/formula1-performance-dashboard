@@ -1,4 +1,4 @@
-# 🏎️ Power BI dashboard analysing 70+ years of Formula 1 data, uncovering patterns in driver performance, constructor dominance, and race reliability.
+# Power BI dashboard analysing 70+ years of Formula 1 data, uncovering patterns in driver performance, constructor dominance, and race reliability.
 
 An interactive Business Intelligence dashboard built using Microsoft Power BI to analyse historical Formula 1 data, including driver performance, constructor trends, and race analysis.
 
