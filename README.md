@@ -1,10 +1,10 @@
-# 🏎️ Formula 1 Performance Dashboard (1950–2023)
+# 🏎️ Power BI dashboard analysing 70+ years of Formula 1 data, uncovering patterns in driver performance, constructor dominance, and race reliability.
 
 An interactive Business Intelligence dashboard built using Microsoft Power BI to analyse historical Formula 1 data, including driver performance, constructor trends, and race analysis.
 
 ---
 
-## 📊 Overview
+## 📊 Project Overview
 
 This project explores over 70 years of Formula 1 World Championship data, integrating race results, drivers, constructors, and technical reliability to uncover patterns in competitive success and performance.
 
@@ -40,6 +40,7 @@ These metrics highlight the scale of the dataset and the importance of both perf
 ## 📷 Dashboard Preview
 
 ### Executive Overview
+💡 Key Insight: Ferrari leads all-time constructor performance, while modern-era points growth reflects changes in race formats and season length.
 ![Executive Dashboard](./Executive%20Sum.jpg)
 
 ### Team & Technical Reliability
@@ -60,6 +61,13 @@ These metrics highlight the scale of the dataset and the importance of both perf
 - Data Analysis  
 
 ---
+
+## 📊 Business Value
+
+This dashboard enables stakeholders to:
+- Understand long-term team and driver performance trends  
+- Evaluate the impact of reliability on race outcomes  
+- Analyse the global growth of Formula 1  
 
 ## 📌 Conclusion
 
